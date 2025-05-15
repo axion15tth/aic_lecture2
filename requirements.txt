@@ -1,0 +1,5 @@
+# requirements.txt（例）
+streamlit>=1.32.0
+openai>=1.14.0        # v1 系を推奨（コードは 0.x でも動きます）
+pandas
+numpy
